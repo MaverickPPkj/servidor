@@ -340,3 +340,21 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [12May2025 06:23:48.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=92, z=419} BlockPos{x=307, y=93, z=419}
 [12May2025 06:24:02.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=295, y=90, z=420} BlockPos{x=297, y=91, z=419}
 [12May2025 06:24:14.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=300, y=88, z=419} BlockPos{x=301, y=87, z=419}
+[12May2025 06:30:53.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Heartt777 lost connection: Disconnected
+[12May2025 06:30:53.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 left the game
+[12May2025 06:34:37.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=283, y=81, z=416} BlockPos{x=282, y=84, z=416}
+[12May2025 06:34:37.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=283, y=81, z=416} BlockPos{x=282, y=84, z=416}
+[12May2025 06:34:37.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=82, z=416} BlockPos{x=283, y=84, z=416}
+[12May2025 06:34:37.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=81, z=416} BlockPos{x=283, y=84, z=416}
+[12May2025 06:34:37.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=81, z=416} BlockPos{x=283, y=84, z=416}
+[12May2025 06:34:37.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=81, z=416} BlockPos{x=283, y=84, z=416}
+[12May2025 06:34:37.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=81, z=416} BlockPos{x=283, y=84, z=416}
+[12May2025 06:34:57.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=344, y=81, z=416} BlockPos{x=343, y=83, z=416}
+[12May2025 06:36:33.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=85, z=416} BlockPos{x=292, y=82, z=416}
+[12May2025 06:36:33.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=85, z=416} BlockPos{x=292, y=82, z=416}
+[12May2025 06:36:33.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=293, y=83, z=416} BlockPos{x=292, y=82, z=416}
+[12May2025 06:36:33.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=293, y=83, z=416} BlockPos{x=292, y=82, z=416}
+[12May2025 06:36:33.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=293, y=83, z=416} BlockPos{x=292, y=82, z=416}
+[12May2025 06:37:31.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=337, y=84, z=416} BlockPos{x=336, y=85, z=416}
+[12May2025 06:43:24.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12May2025 06:43:24.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
