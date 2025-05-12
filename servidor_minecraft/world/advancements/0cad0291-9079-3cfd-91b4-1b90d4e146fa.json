@@ -7576,6 +7576,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2025-05-12 05:05:38 +0000"
@@ -7588,9 +7594,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-12 05:03:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -7603,6 +7621,12 @@
   "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-12 05:03:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -7624,9 +7648,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_toaster": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-05-12 05:03:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -7642,9 +7684,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-05-12 05:03:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -7678,6 +7762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-05-12 04:21:24 +0000"
@@ -7696,9 +7786,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2025-05-12 05:05:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -7720,9 +7822,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2025-05-12 05:05:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -7750,9 +7876,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-05-12 05:05:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -7774,6 +7918,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2025-05-12 05:05:38 +0000"
@@ -7783,6 +7933,12 @@
   "refurbished_furniture:recipes/decorations/white_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-12 05:05:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -7801,6 +7957,18 @@
   "refurbished_furniture:recipes/decorations/white_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-12 05:05:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_bath": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -7858,6 +8026,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2025-05-12 05:05:38 +0000"
@@ -7870,6 +8050,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_bath": {
     "criteria": {
       "has_white_dye": "2025-05-12 05:05:38 +0000"
@@ -7879,6 +8065,12 @@
   "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-12 05:03:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -7900,9 +8092,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2025-05-12 05:05:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -7936,6 +8152,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_fridge": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-05-12 05:03:35 +0000"
@@ -7957,6 +8185,18 @@
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-05-12 05:05:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_basin": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -7984,6 +8224,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_toilet": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-05-12 04:46:57 +0000"
@@ -8008,6 +8260,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-12 05:03:35 +0000"
@@ -8026,6 +8284,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-12 05:03:35 +0000"
@@ -8035,6 +8305,12 @@
   "refurbished_furniture:recipes/decorations/white_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-12 05:05:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -8080,6 +8356,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-12 05:03:35 +0000"
@@ -8089,6 +8377,12 @@
   "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-12 05:03:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
@@ -8146,6 +8440,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-05-12 05:03:35 +0000"
@@ -8164,6 +8464,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2025-05-12 05:05:38 +0000"
@@ -8179,6 +8485,24 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2025-05-12 05:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-05-12 05:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-12 05:37:23 +0000"
     },
     "done": true
   },
