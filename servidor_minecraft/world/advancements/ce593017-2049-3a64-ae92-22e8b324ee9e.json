@@ -10639,6 +10639,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-05-12 05:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-12 05:02:24 +0000"
@@ -10768,6 +10774,12 @@
   "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-05-12 05:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-05-12 05:27:20 +0000"
     },
     "done": true
   },

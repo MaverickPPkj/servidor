@@ -8623,3 +8623,9 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [12May2025 05:16:48.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [12May2025 05:21:38.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12May2025 05:21:38.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 05:26:38.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 05:26:38.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 05:27:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has reached the goal [Beaconator]
+[12May2025 05:27:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Bring Home the Beacon]
+[12May2025 05:31:38.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 05:31:38.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
