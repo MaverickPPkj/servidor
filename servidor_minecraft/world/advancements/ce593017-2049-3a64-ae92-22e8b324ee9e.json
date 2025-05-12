@@ -10537,5 +10537,23 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-05-12 04:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-12 04:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-12 04:32:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -8491,3 +8491,86 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [12May2025 04:26:38.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12May2025 04:31:38.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12May2025 04:31:38.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 04:36:38.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 04:36:38.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 04:38:53.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[12May2025 04:40:18.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> asd
+[12May2025 04:40:18.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> a
+[12May2025 04:40:19.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> d
+[12May2025 04:40:19.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> as
+[12May2025 04:40:19.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> d
+[12May2025 04:40:19.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> a
+[12May2025 04:40:20.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:20.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:20.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:20.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:20.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:20.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:21.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:21.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:21.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:21.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:21.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:22.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:22.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:22.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:22.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:22.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:22.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:22.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:23.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:23.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:23.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:23.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:23.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:24.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> zz
+[12May2025 04:40:24.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:24.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:24.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:24.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:25.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:25.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:26.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:26.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:26.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:26.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:26.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:26.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:26.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:27.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:27.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:27.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:28.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:28.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:28.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:28.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:28.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:29.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:29.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:29.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:29.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:30.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:30.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:30.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:30.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:30.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:30.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:31.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:31.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:31.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:31.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:31.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:32.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:32.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:32.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:32.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Heartt777> z
+[12May2025 04:40:41.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maverxck23> z
+[12May2025 04:40:41.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maverxck23> z
+[12May2025 04:40:41.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maverxck23> z
+[12May2025 04:41:08.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12May2025 04:41:08.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12May2025 04:41:38.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 04:41:38.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
