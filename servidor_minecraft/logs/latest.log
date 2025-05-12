@@ -214,3 +214,8 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [12May2025 03:32:58.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 joined the game
 [12May2025 03:59:01.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=336, y=82, z=545} BlockPos{x=336, y=81, z=545}
 [12May2025 04:01:20.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Wheels of Destruction]
+[12May2025 04:12:37.790] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12May2025 04:12:54.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=147, y=50, z=897} BlockPos{x=148, y=48, z=897}
+[12May2025 04:13:28.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12May2025 04:13:28.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12May2025 04:17:00.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
