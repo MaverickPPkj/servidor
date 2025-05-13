@@ -10933,5 +10933,17 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-13 02:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-13 02:41:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
