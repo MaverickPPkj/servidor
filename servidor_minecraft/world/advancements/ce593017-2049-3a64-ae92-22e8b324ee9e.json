@@ -10531,6 +10531,36 @@
     },
     "done": true
   },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-05-12 04:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-12 04:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-12 04:32:03 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-05-12 04:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-05-12 04:43:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
     "criteria": {
       "has_black_dye": "2025-05-12 05:02:24 +0000"
@@ -10573,12 +10603,6 @@
     },
     "done": true
   },
-  "create:crushing_wheel": {
-    "criteria": {
-      "0": "2025-05-12 04:01:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-05-12 05:02:24 +0000"
@@ -10597,27 +10621,9 @@
     },
     "done": true
   },
-  "create:funnel": {
-    "criteria": {
-      "0": "2025-05-12 04:33:28 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
     "criteria": {
       "has_black_dye": "2025-05-12 05:02:24 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
-    "criteria": {
-      "arachnophobes_nightmare_0": "2025-05-12 05:12:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-05-12 04:32:03 +0000"
     },
     "done": true
   },
@@ -10636,12 +10642,6 @@
   "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2025-05-12 05:02:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/create_full_beacon": {
-    "criteria": {
-      "beacon": "2025-05-12 05:27:20 +0000"
     },
     "done": true
   },
@@ -10723,12 +10723,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-05-12 04:32:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_bath": {
     "criteria": {
       "has_black_dye": "2025-05-12 05:02:24 +0000"
@@ -10777,12 +10771,6 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2025-05-12 05:27:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-05-12 05:02:24 +0000"
@@ -10819,12 +10807,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:horror_underthe_mantle": {
-    "criteria": {
-      "horror_underthe_mantle_0": "2025-05-12 05:10:39 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-12 05:02:24 +0000"
@@ -10846,12 +10828,6 @@
   "refurbished_furniture:recipes/decorations/black_toilet": {
     "criteria": {
       "has_dye": "2025-05-12 05:02:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-05-12 04:43:39 +0000"
     },
     "done": true
   },
@@ -10930,6 +10906,30 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-12 05:02:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-05-12 05:10:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-05-12 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-05-12 05:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-05-12 05:27:20 +0000"
     },
     "done": true
   },
