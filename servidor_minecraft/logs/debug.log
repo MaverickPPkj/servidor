@@ -8295,3 +8295,12 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 02:07:24.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14May2025 02:12:24.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14May2025 02:12:24.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 02:17:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Voluntary Exile]
+[14May2025 02:17:24.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 02:17:24.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 02:17:55.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has completed the challenge [Village Defender]
+[14May2025 02:19:46.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has completed the challenge [Hero of the Village]
+[14May2025 02:21:40.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14May2025 02:21:40.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14May2025 02:22:24.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 02:22:24.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

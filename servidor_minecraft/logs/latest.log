@@ -228,3 +228,8 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 01:19:36.930] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [14May2025 01:28:20.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=294, y=75, z=488} BlockPos{x=293, y=74, z=490}
 [14May2025 01:43:20.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14May2025 02:17:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has made the advancement [Voluntary Exile]
+[14May2025 02:17:55.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has completed the challenge [Village Defender]
+[14May2025 02:19:46.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has completed the challenge [Hero of the Village]
+[14May2025 02:21:40.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14May2025 02:21:40.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
