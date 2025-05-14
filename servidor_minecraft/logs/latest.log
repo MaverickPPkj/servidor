@@ -233,3 +233,4 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 02:19:46.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 has completed the challenge [Hero of the Village]
 [14May2025 02:21:40.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [14May2025 02:21:40.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14May2025 02:32:05.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=311, y=104, z=373} BlockPos{x=307, y=103, z=348}
