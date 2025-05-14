@@ -8645,3 +8645,8 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 08:12:03.280] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [14May2025 08:12:24.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14May2025 08:12:24.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 08:17:24.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 08:17:24.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 08:18:13.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=344, y=78, z=377} BlockPos{x=345, y=79, z=374}
+[14May2025 08:19:14.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maverxck23 lost connection: Disconnected
+[14May2025 08:19:14.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maverxck23 left the game
