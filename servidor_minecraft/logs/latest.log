@@ -248,3 +248,4 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 02:55:39.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=101, z=392} BlockPos{x=311, y=100, z=396}
 [14May2025 02:55:48.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=99, z=402} BlockPos{x=312, y=100, z=402}
 [14May2025 02:57:58.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=101, z=357} BlockPos{x=300, y=100, z=357}
+[14May2025 03:20:05.730] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
