@@ -227,3 +227,4 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 01:19:20.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [14May2025 01:19:36.930] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [14May2025 01:28:20.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=294, y=75, z=488} BlockPos{x=293, y=74, z=490}
+[14May2025 01:43:20.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
