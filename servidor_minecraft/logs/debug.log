@@ -8235,3 +8235,38 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 00:55:29.297] [Server thread/DEBUG] [mcp.mobius.waila.registry.RegistryFilter/]: [WTHIT] Finished in 0ms, id: 1091736080
 [14May2025 00:57:24.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14May2025 00:57:24.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:02:24.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:02:24.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:02:33.173] [Server thread/DEBUG] [mixin/]: Mixing BeehiveBlockEntity$BeeDataAccess from wthit.mixins.json into net.minecraft.world.level.block.entity.BeehiveBlockEntity$BeeData
+[14May2025 01:02:33.173] [Server thread/DEBUG] [mixin/]: wthit.mixins.json:BeehiveBlockEntity$BeeDataAccess: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[14May2025 01:07:24.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:07:24.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:07:56.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=104, z=378} BlockPos{x=308, y=104, z=379}
+[14May2025 01:07:56.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=104, z=378} BlockPos{x=308, y=104, z=379}
+[14May2025 01:07:56.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=104, z=378} BlockPos{x=308, y=104, z=379}
+[14May2025 01:07:57.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=104, z=378} BlockPos{x=308, y=104, z=379}
+[14May2025 01:07:57.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=309, y=104, z=378} BlockPos{x=308, y=104, z=379}
+[14May2025 01:10:53.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=103, z=346} BlockPos{x=311, y=105, z=345}
+[14May2025 01:10:53.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=103, z=346} BlockPos{x=311, y=105, z=345}
+[14May2025 01:10:53.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=103, z=346} BlockPos{x=311, y=105, z=345}
+[14May2025 01:11:08.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=105, z=337} BlockPos{x=310, y=104, z=336}
+[14May2025 01:11:08.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=311, y=104, z=337} BlockPos{x=310, y=104, z=336}
+[14May2025 01:11:08.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=311, y=105, z=337} BlockPos{x=310, y=104, z=336}
+[14May2025 01:11:08.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=311, y=105, z=337} BlockPos{x=310, y=104, z=336}
+[14May2025 01:11:08.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=311, y=105, z=337} BlockPos{x=310, y=104, z=336}
+[14May2025 01:11:08.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=311, y=105, z=337} BlockPos{x=310, y=104, z=336}
+[14May2025 01:11:08.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=311, y=105, z=337} BlockPos{x=310, y=104, z=336}
+[14May2025 01:11:08.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=311, y=105, z=337} BlockPos{x=310, y=104, z=336}
+[14May2025 01:11:08.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=312, y=105, z=336} BlockPos{x=312, y=104, z=340}
+[14May2025 01:11:10.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=312, y=104, z=336} BlockPos{x=311, y=103, z=336}
+[14May2025 01:12:11.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=105, z=323} BlockPos{x=331, y=105, z=323}
+[14May2025 01:12:17.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14May2025 01:12:24.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:12:24.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:12:50.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=105, z=332} BlockPos{x=333, y=104, z=332}
+[14May2025 01:12:50.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=105, z=332} BlockPos{x=333, y=104, z=332}
+[14May2025 01:12:50.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=105, z=332} BlockPos{x=333, y=104, z=332}
+[14May2025 01:17:24.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14May2025 01:17:24.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14May2025 01:19:20.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[14May2025 01:19:36.930] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
