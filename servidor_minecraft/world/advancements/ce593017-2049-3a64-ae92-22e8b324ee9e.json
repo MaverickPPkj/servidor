@@ -10948,13 +10948,13 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "voluntary_exile": "2025-05-14 02:17:15 +0000"
+      "has_azure_bluet": "2025-05-14 01:28:17 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-05-14 01:28:17 +0000"
     },
@@ -10966,33 +10966,33 @@
     },
     "done": true
   },
-  "tombstone:adventure/village_defender": {
-    "criteria": {
-      "coded_trigger": "2025-05-14 02:17:55 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-14 01:28:51 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-05-14 02:19:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-05-14 01:28:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-14 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-14 02:17:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-05-14 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-14 02:19:46 +0000"
     },
     "done": true
   },
