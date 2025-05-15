@@ -213,3 +213,14 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [15May2025 04:25:58.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 joined the game
 [15May2025 04:26:25.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has made the advancement [Voluntary Exile]
 [15May2025 04:26:55.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has completed the challenge [Hero of the Village]
+[15May2025 04:32:26.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=377, y=80, z=360} BlockPos{x=376, y=79, z=359}
+[15May2025 04:32:26.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=377, y=80, z=360} BlockPos{x=376, y=79, z=359}
+[15May2025 04:32:26.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=377, y=80, z=360} BlockPos{x=376, y=79, z=359}
+[15May2025 04:32:26.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=377, y=80, z=360} BlockPos{x=376, y=79, z=359}
+[15May2025 04:32:26.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=377, y=80, z=360} BlockPos{x=376, y=79, z=359}
+[15May2025 04:35:06.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
+[15May2025 04:35:17.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Heartt777 has reached the goal [Horror Under the Mantle]
+[15May2025 04:37:48.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=376, y=81, z=354} BlockPos{x=375, y=81, z=353}
+[15May2025 04:37:48.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=376, y=81, z=354} BlockPos{x=375, y=81, z=353}
+[15May2025 04:45:03.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]
+[15May2025 04:50:13.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Heartt777: Teleported Heartt777 to Maverxck23]

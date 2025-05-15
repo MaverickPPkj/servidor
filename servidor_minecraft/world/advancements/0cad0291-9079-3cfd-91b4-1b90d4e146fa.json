@@ -8524,5 +8524,17 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-05-15 04:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-15 04:26:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
